@@ -2,7 +2,7 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "DailyGG"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
@@ -44,20 +44,6 @@ creative_commons:
 # if it has no content, this will be used for page description. It is also used in manifest.json
 meta_common_description: "Your meta description."
 
-# contact options (side nav bottom and about page)
-# the order of the items will be shown as here.
-# comment to remove any contact item
-contacts:
-  #- github: ""
-  #- email: ""
-  #- linkedin: ""
-  #- twitter: ""
-  #- mastodon: ""
-  #- instagram: ""
-  #- youtube: ""
-  #- facebook: ""
-# to add more, check the _data/const/contact.yml file
-#  - your_new_contact: ""
 
 # make sure one of comment engine is enabled in _data/conf/posts.yml file
 comments:
